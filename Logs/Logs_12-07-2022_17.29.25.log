@@ -1,0 +1,13 @@
+17:29:25.805 [main] INFO  com.mindtree.utilities.BaseClass - System property set. Driver initialized
+17:29:25.943 [main] DEBUG com.mindtree.utilities.BaseClass - Maximized the browser window
+17:29:29.859 [main] DEBUG com.mindtree.utilities.BaseClass - Navigated to https://amazon.in
+17:29:30.344 [main] DEBUG com.mindtree.utilities.BaseClass - Entered the string
+17:29:33.009 [main] DEBUG com.mindtree.utilities.BaseClass - Clicked search button
+17:29:33.259 [main] INFO  com.mindtree.utilities.BaseClass - TC1 Pass. String matched after submit
+17:29:35.782 [main] INFO  com.mindtree.utilities.BaseClass - System property set. Driver initialized
+17:29:35.929 [main] DEBUG com.mindtree.utilities.BaseClass - Maximized the browser window
+17:29:39.531 [main] DEBUG com.mindtree.utilities.BaseClass - Navigated to https://amazon.in
+17:29:42.076 [main] DEBUG com.mindtree.utilities.BaseClass - Clicked the link
+17:29:42.168 [main] INFO  com.mindtree.utilities.BaseClass - TC2 Pass. String found on page
+17:29:44.111 [main] INFO  com.mindtree.utilities.BaseClass - System property set. Driver initialized
+17:29:45.049 [main] INFO  com.mindtree.utilities.BaseClass - Report opened successfully
